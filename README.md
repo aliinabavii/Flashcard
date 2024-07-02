@@ -18,6 +18,8 @@ Running the App:
 To run the app, execute the Python script in your terminal using the following command:
 
 python flashcard_app.py
+
+
 Example:
 Welcome to the Flashcard App!
 
